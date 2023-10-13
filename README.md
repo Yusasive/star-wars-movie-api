@@ -1,12 +1,8 @@
-# Star Wars Movie / SWAPI API
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Using API from [SWAPI](https://swapi.co).<br>
-To see this project in action, go to [Demo Star Wars](https://finmavis.github.io/swapi-task)
 
 ## Getting Started
 
 Clone this repo :
-`git clone https://github.com/finmavis/swapi-task.git`
+`git clone https://github.com/yusasive/star-wars-movie-api.git`
 
 Navigate to the root folder and install all dependencies :
 
